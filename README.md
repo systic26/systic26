@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Nur Syamsi Hidayah 👋
+### 👋 Hi there, I'm Muhammad Nur Syamsi Hidayah 👋
 
 I am a **Digital Business Student** at **Universitas Negeri Makassar (UNM)**. I bridge the gap between business strategy and software engineering.
 
@@ -28,4 +28,25 @@ I am a **Digital Business Student** at **Universitas Negeri Makassar (UNM)**. I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systic26&layout=compact&theme=radical" alt="top languages" />
 </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-nur-syamsi-hidayah-328135246/)
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-nur-syamsi-hidayah-328135246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6281248213661">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:syamsihidayah26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hydhismys">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=systic26&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
