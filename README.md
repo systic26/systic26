@@ -28,4 +28,4 @@ I am a **Digital Business Student** at **Universitas Negeri Makassar (UNM)**. I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systic26&layout=compact&theme=radical" alt="top languages" />
 </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][(https://www.linkedin.com/in/muhammad-nur-syamsi-hidayah-328135246/)]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-nur-syamsi-hidayah-328135246/)
