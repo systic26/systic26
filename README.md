@@ -9,7 +9,7 @@
   <p align="center">
     I am a <b>Digital Business Student</b> at <b>Universitas Negeri Makassar (UNM)</b>. <br>
     I bridge the gap between <b>Business Strategy</b> and <b>Software Engineering</b>. <br>
-    Currently working on <b>Fullstack Web Dev & Financial Data Analysis</b>.
+    At present, I am focus is on <b>Fullstack Web Dev & Stock Market Analysis</b>.
   </p>
 
   <p align="center">
